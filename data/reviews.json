@@ -1,0 +1,46 @@
+[
+  {
+    "reporting_criteria": "audience",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "complaint_category_id": 1,
+    "complaint_related_id": 1,
+    "rating": 8,
+    "description": "Great service overall",
+    "id": 1,
+    "created_at": "2025-09-11T15:17:40.953Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "Test User",
+    "email": "test@example.com",
+    "complaint_category_id": 1,
+    "complaint_related_id": 1,
+    "rating": 9,
+    "description": "Excellent service and very satisfied",
+    "id": 2,
+    "created_at": "2025-09-11T15:48:22.793Z"
+  },
+  {
+    "reporting_criteria": "stakeholder",
+    "name": "nandez",
+    "email": "nandez21cafe@gmail.com",
+    "complaint_category_id": 1,
+    "complaint_related_id": 1,
+    "rating": 8,
+    "description": "bagus",
+    "id": 3,
+    "created_at": "2025-09-11T16:53:59.920Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "budi",
+    "email": "hskasablanka@cinema21.co.id",
+    "complaint_category_id": 3,
+    "complaint_related_id": 5,
+    "rating": 3,
+    "description": "karyawan jutek",
+    "id": 4,
+    "created_at": "2025-09-11T17:02:27.281Z"
+  }
+]
