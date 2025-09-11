@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Very Satisfied",
+    "emoticon": "😊",
+    "description": "Very satisfied with the experience"
+  },
+  {
+    "id": 2,
+    "name": "Satisfied",
+    "emoticon": "🙂",
+    "description": "Generally satisfied"
+  },
+  {
+    "id": 3,
+    "name": "Neutral",
+    "emoticon": "😐",
+    "description": "Neither satisfied nor dissatisfied"
+  },
+  {
+    "id": 4,
+    "name": "Dissatisfied",
+    "emoticon": "😞",
+    "description": "Somewhat dissatisfied"
+  },
+  {
+    "id": 5,
+    "name": "Very Dissatisfied",
+    "emoticon": "😡",
+    "description": "Very dissatisfied"
+  }
+]
