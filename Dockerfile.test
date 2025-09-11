@@ -1,0 +1,18 @@
+FROM node:18-alpine
+
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy test script
+COPY test-db.js ./
+
+# Copy environment file
+COPY .env.local ./
+
+# Run the test
+CMD ["node", "test-db.js"]
