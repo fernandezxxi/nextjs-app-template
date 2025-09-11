@@ -18,6 +18,21 @@ services:
     networks:
       - customer_reviews_network
 
+  test:
+    build:
+      context: .
+      dockerfile: Dockerfile.test
+    depends_on:
+      - mysql
+    networks:
+      - customer_reviews_network
+    environment:
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_USER=app_user
+      - DB_PASSWORD=app_password
+      - DB_NAME=customer_reviews
+
 volumes:
   mysql_data:
     driver: local
