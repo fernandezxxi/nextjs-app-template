@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Service Quality",
+    "icon_class": "service",
+    "description": "Issues related to service quality"
+  },
+  {
+    "id": 2,
+    "name": "Product Issues",
+    "icon_class": "product",
+    "description": "Problems with products"
+  },
+  {
+    "id": 3,
+    "name": "Staff Behavior",
+    "icon_class": "staff",
+    "description": "Staff conduct and behavior"
+  },
+  {
+    "id": 4,
+    "name": "Facility",
+    "icon_class": "facility",
+    "description": "Facility and environment issues"
+  },
+  {
+    "id": 5,
+    "name": "Others",
+    "icon_class": "other",
+    "description": "Other miscellaneous issues"
+  }
+]
