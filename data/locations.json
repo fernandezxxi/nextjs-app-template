@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "code": "NYC",
+    "name": "New York City",
+    "location_class": "Head Office",
+    "address": "123 Broadway, NYC",
+    "phone": "+1-212-555-0123",
+    "status": "active",
+    "description": "Manhattan Office"
+  },
+  {
+    "id": 2,
+    "code": "LAX",
+    "name": "Los Angeles",
+    "location_class": "Branch Office",
+    "address": "456 Sunset Blvd, LA",
+    "phone": "+1-213-555-0456",
+    "status": "active",
+    "description": "West Coast Office"
+  },
+  {
+    "id": 3,
+    "code": "CHI",
+    "name": "Chicago",
+    "location_class": "Branch Office",
+    "address": "789 Michigan Ave, Chicago",
+    "phone": "+1-312-555-0789",
+    "status": "active",
+    "description": "Midwest Office"
+  },
+  {
+    "id": 4,
+    "code": "MIA",
+    "name": "Miami",
+    "location_class": "Branch Office",
+    "address": "321 Ocean Drive, Miami",
+    "phone": "+1-305-555-0321",
+    "status": "active",
+    "description": "Southeast Office"
+  },
+  {
+    "id": 5,
+    "code": "SEA",
+    "name": "Seattle",
+    "location_class": "Branch Office",
+    "address": "654 Pike St, Seattle",
+    "phone": "+1-206-555-0654",
+    "status": "active",
+    "description": "Pacific Northwest Office"
+  },
+  {
+    "id": 6,
+    "code": "AUS",
+    "name": "Austin",
+    "location_class": "Branch Office",
+    "address": "987 Congress Ave, Austin",
+    "phone": "+1-512-555-0987",
+    "status": "active",
+    "description": "Texas Office"
+  },
+  {
+    "code": "NSR033",
+    "name": "Kelapa Gading XXI",
+    "location_class": "A",
+    "address": "Mall Kelapa Gading",
+    "phone": "021",
+    "status": "active",
+    "description": "Outlet",
+    "id": 7
+  }
+]
