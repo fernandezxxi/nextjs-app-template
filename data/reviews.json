@@ -42,5 +42,103 @@
     "description": "karyawan jutek",
     "id": 4,
     "created_at": "2025-09-11T17:02:27.281Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "Anto",
+    "email": "anto@gmail.com",
+    "complaint_category_id": 4,
+    "complaint_related_id": 5,
+    "rating": 2,
+    "description": "Bad",
+    "id": 5,
+    "created_at": "2025-09-11T17:51:48.538Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "Adzkiya",
+    "email": "adkiyz@gmail.com",
+    "complaint_category_id": 1,
+    "complaint_related_id": 4,
+    "rating": 3,
+    "description": "Not good Service",
+    "id": 6,
+    "created_at": "2025-09-11T18:18:28.145Z"
+  },
+  {
+    "reporting_criteria": "stakeholder",
+    "name": "Eko",
+    "complaint_category_id": 2,
+    "complaint_related_id": 5,
+    "rating": 1,
+    "description": "G enak burgernya",
+    "id": 7,
+    "created_at": "2025-09-11T18:24:25.877Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "bewok",
+    "email": "nan21cafe@gmail.com",
+    "complaint_category_id": 1,
+    "complaint_related_id": 5,
+    "rating": 3,
+    "description": "not good",
+    "id": 8,
+    "created_at": "2025-09-12T04:09:11.238Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "rendi",
+    "email": "nandez21cafe@gmail.com",
+    "complaint_category_id": 3,
+    "complaint_related_id": 5,
+    "rating": 2,
+    "description": "bad",
+    "id": 9,
+    "created_at": "2025-09-12T04:15:05.987Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "Agus",
+    "email": "agus@gmail.com",
+    "complaint_category_id": 2,
+    "complaint_related_id": 4,
+    "rating": 2,
+    "description": "Not good",
+    "id": 10,
+    "created_at": "2025-09-13T04:32:09.715Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "Tesz",
+    "email": "tes@gmail.com",
+    "complaint_category_id": 3,
+    "complaint_related_id": 1,
+    "rating": 10,
+    "description": "Baguss betul",
+    "id": 11,
+    "created_at": "2025-09-13T04:35:21.712Z"
+  },
+  {
+    "reporting_criteria": "audience",
+    "name": "Hana",
+    "email": "hana@gmail.com",
+    "complaint_category_id": 2,
+    "complaint_related_id": 2,
+    "rating": 8,
+    "description": "Mantap",
+    "id": 12,
+    "created_at": "2025-09-13T04:41:08.609Z"
+  },
+  {
+    "reporting_criteria": "stakeholder",
+    "name": "Geege",
+    "email": "gege@gmail.com",
+    "complaint_category_id": 1,
+    "complaint_related_id": 2,
+    "rating": 8,
+    "description": "Ok",
+    "id": 13,
+    "created_at": "2025-09-13T04:43:11.852Z"
   }
 ]
